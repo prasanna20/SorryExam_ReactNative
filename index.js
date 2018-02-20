@@ -7,4 +7,3 @@ const App = () => (
 );
 
 AppRegistry.registerComponent('SorryExam', () => App)
-/*****hi*******/
